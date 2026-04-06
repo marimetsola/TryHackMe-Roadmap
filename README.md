@@ -216,7 +216,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
-- [ ] [🕵️ TryHackMe | Careers in Cyber](https://tryhackme.com/room/careersincyber)
+- [x] [🕵️ TryHackMe | Careers in Cyber](https://tryhackme.com/room/careersincyber)
 
 - [ ] [🕵️ TryHackMe | Junior Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo)
 
@@ -313,7 +313,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
 
-- [ ] [🕵️ TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
+- [x] [🕵️ TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
 
 - [ ] [🕵️ TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
 
@@ -321,7 +321,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
 
-- [ ] [🕵️ TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
+- [x] [🕵️ TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
 
 - [ ] [🕵️ TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
 
@@ -639,9 +639,9 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 ## Easy CTF
 
-- [ ] [🕵️ TryHackMe | Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro)
+- [x] [🕵️ TryHackMe | Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro)
 
-- [ ] [🕵️ TryHackMe | Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro)
+- [x] [🕵️ TryHackMe | Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro)
       
 - [ ] [🕵️ TryHackMe | Pyrat](https://tryhackme.com/room/pyrat)
   
